@@ -1,2 +1,2 @@
-# GPT-prompt-perkuliahan
-Kumpulan GPT prompt ynag mungkin bermanfaat bagi dunia perkuliahan
+# Kumpulan GPT-prompt untuk dunia perkuliahan
+<i> Masih perencanaan </i>
