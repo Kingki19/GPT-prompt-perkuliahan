@@ -1,22 +1,22 @@
 # Kumpulan GPT-prompt untuk dunia perkuliahan
 <ul>
-  <li> <details>
-    <summary> Artikel Ilmiah </summary>
+  <li>
+    <p> Artikel Ilmiah </p>
     <ul>
       <li>
         <p> Opini ilmiah: <a href="https://github.com/Kingki19/Feynman-Einstenia-GPTprompt"> https://github.com/Kingki19/Feynman-Einstenia-GPTprompt </a> </p>
       </li>
     </ul>
-  </details> </li>
-  <li> <details>
-    <summary> Penulisan Fictional </summary>
+  </li>
+  <li>
+    <p> Penulisan Fictional </p>
     <ul>
-      <li> <details>
-        <summary> Denjaura </summary>
+      <li>
+        <p> Denjaura </p>
         <blockquote>
           tes
         </blockquote>
-      </details> </li>
+      </li>
     </ul>
-  </details> </li>
+  </li>
 </ul>
