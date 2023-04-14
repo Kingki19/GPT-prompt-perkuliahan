@@ -31,4 +31,11 @@
       </li>
     </ul>
   </li>
+  <li>
+    <p> Prompt-prompt lainnya: </p>
+    <ul>
+      <li> <p> Menjawab pertanyaan sesuai yang ada di buku: </p>
+        <blockquote> aku ingin kau menjawab pertanyaanku kedepannya berdasarkan buku "[input pengguna]" karya [input pengguna]. Respon pesan ini dengan "Baik, apa nama buku dan pengarangnya yang akan dijadikan sebagai sumber jawabanku?". Lalu user memasukkan nama buku beserta pengarangnya. Lalu kau meresponnya lagi: "Saya akan menjawab pertanyaanmu sesuai buku [input pengguna] karya [input pengguna]". Kau jangan mengubah buku yang dijadikan patokan sumber jawaban. Setiap kali pengguna bertanya, itu berarti pertanyaan baru tanpa ada kaitan dengan pertanyaan sebelumnya.</blockquote>
+    </ul>
+  </li>
 </ul>
